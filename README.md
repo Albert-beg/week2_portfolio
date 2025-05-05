@@ -1,42 +1,25 @@
-# Akan Name Calculator
+# ALBERT OBWOGE PORTFOLIO
+#### 
+A brief introduction about myself ,as at APRIL 2020,
+#### AUTHOR
+By ALBERT OBWOGE
+## Description
+The summary provided covers my professional background from college to working levels.
+## Setup/Installation Requirements
+Clone this repository to a location in your file system. git clonehttps://github.com/Albert-beg/ALBERT-PORTFOLIO.git, Open terminal command line then navigate to the root folder of the application. cd Akan-Names,Open index.html on your Browser.
+## Known Bugs
+Incase of a bug,you are allowed to make changes.This will be accompanied with sufficient sample tests. 
+Link to Live Site : https://albert-beg.github.io/ALBERT-PORTFOLIO/
+## Technologies Used
+Used HTML CSS JavaScript
+## Support and contact details
+albertnyambegaa@gmail.com , twitter ,@Albert_obwoge
+### License
+MIT Copyright (c) 2025 Albert Obwoge
 
-## About
-This is a simple application that calculates one's Akan name on the day of the week they were born. These are the names:
-* ### Male
-1. Sunday: Kwasi
-2. Monday: Kwadwo
-3. Tuesday: Kwabena
-4. Wednesday: Kwaku
-5. Thursday:  Yaw
-6. Friday: Kofi
-7. Saturday: Kwame
 
-* ### Female
-1. Sunday: Akosua
-2. Monday: Adwoa
-3. Tuesday: Abenaa
-4. Wednesday: Akua
-5. Thursday:  Yaa
-6. Friday: Afua
-7. Saturday: Ama
 
-## Installation
-1. Clone this repository.
-2. Navigate to the folder where the repo is cloned, and open week2/assignment folder
-3. Open the day-of-the-week.html file with your favorite web browser eg Google Chrome
 
-```bash
-day-of-the-week.html
-```
 
-## Live Site
-Link: https://mwiberisu.github.io/mpesa-miniapps-training/week2/assignment/day-of-the-week.html
 
-## Author
-[github/Mwiberisu](https://github.com/Mwiberisu)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Copyright
-Copyright © 2024, [Susan Mwiberi](https://github.com/Mwiberisu).
